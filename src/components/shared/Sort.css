@@ -1,0 +1,6 @@
+.sort {
+    display: flex;
+    justify-content: start;
+    margin: 1rem;
+    gap: 0.5rem;
+}
